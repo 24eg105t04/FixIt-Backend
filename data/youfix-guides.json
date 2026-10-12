@@ -1,0 +1,962 @@
+{
+  "guides": [
+    {
+      "id": "phone-charge-check",
+      "deviceType": "phone",
+      "deviceLabel": "Phone",
+      "title": "Phone will not charge: safe first checks",
+      "issue": "Charging problem",
+      "difficulty": "Beginner",
+      "duration": "10–15 min",
+      "tools": [
+        "Flashlight",
+        "Dry soft brush"
+      ],
+      "safety": [
+        "Do not insert metal objects into the charging port.",
+        "Stop if the phone or battery is swollen, hot, leaking, or smells unusual."
+      ],
+      "sourceTitle": "Apple Support — If your iPhone or iPod touch won’t charge",
+      "sourceUrl": "https://support.apple.com/en-us/108805",
+      "steps": [
+        {
+          "title": "Check the power source",
+          "body": "Try a known-working wall outlet and compatible charging adapter. Test the outlet with another device.",
+          "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Smartphone close-up"
+        },
+        {
+          "title": "Inspect the cable and adapter",
+          "body": "Look for fraying, bent connectors, scorch marks, or looseness. Stop using damaged accessories.",
+          "image": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Smartphone being used"
+        },
+        {
+          "title": "Inspect the port without probing it",
+          "body": "Use a flashlight to look for visible debris. Do not use pins, liquids, or metal tools. If packed debris is present, follow manufacturer service guidance or ask a repair professional.",
+          "image": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Smartphone on a desk"
+        },
+        {
+          "title": "Restart and test again",
+          "body": "Restart the phone, connect the known-working charger, and allow a few minutes. If it still fails, the port, battery, or charging circuit may need professional diagnosis.",
+          "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Smartphone close-up"
+        }
+      ]
+    },
+    {
+      "id": "phone-battery-drain",
+      "deviceType": "phone",
+      "deviceLabel": "Phone",
+      "title": "Phone battery drains quickly",
+      "issue": "Battery / power",
+      "difficulty": "Beginner",
+      "duration": "10 min",
+      "tools": [
+        "Device settings",
+        "Clean, dry cloth"
+      ],
+      "safety": [
+        "Power the device off before external inspection.",
+        "Do not open sealed batteries or mains-powered equipment.",
+        "Stop if you notice swelling, smoke, burning smells, liquid damage, or excessive heat."
+      ],
+      "sourceTitle": "Apple Support — Batteries",
+      "sourceUrl": "https://support.apple.com/batteries",
+      "steps": [
+        {
+          "title": "Check battery usage",
+          "body": "Open battery settings and identify apps using an unusually large share of power.",
+          "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Smartphone close-up"
+        },
+        {
+          "title": "Review background activity",
+          "body": "Close apps you do not need and restrict background refresh for apps where appropriate.",
+          "image": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Smartphone being used"
+        },
+        {
+          "title": "Check signal and display settings",
+          "body": "Weak mobile signal and very high brightness can increase battery use. Test with moderate brightness and a stable connection.",
+          "image": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Smartphone on a desk"
+        },
+        {
+          "title": "Retest safely",
+          "body": "Restart and monitor battery use. If the phone heats up, swells, or drains suddenly after normal checks, seek service.",
+          "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Smartphone close-up"
+        }
+      ]
+    },
+    {
+      "id": "phone-overheating",
+      "deviceType": "phone",
+      "deviceLabel": "Phone",
+      "title": "Phone feels unusually hot",
+      "issue": "Overheating",
+      "difficulty": "Beginner",
+      "duration": "5–10 min",
+      "tools": [
+        "Device settings",
+        "Clean, dry cloth"
+      ],
+      "safety": [
+        "Power the device off before external inspection.",
+        "Do not open sealed batteries or mains-powered equipment.",
+        "Stop if you notice swelling, smoke, burning smells, liquid damage, or excessive heat."
+      ],
+      "sourceTitle": "Apple Support",
+      "sourceUrl": "https://support.apple.com/",
+      "steps": [
+        {
+          "title": "Stop heavy activity",
+          "body": "Pause games, navigation, video recording, or other intensive tasks.",
+          "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Smartphone close-up"
+        },
+        {
+          "title": "Disconnect accessories",
+          "body": "Unplug the charger and accessories if safe. Move the phone out of direct sunlight.",
+          "image": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Smartphone being used"
+        },
+        {
+          "title": "Let it cool naturally",
+          "body": "Place it on a dry, ventilated surface. Do not put it in a refrigerator or use ice.",
+          "image": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Smartphone on a desk"
+        },
+        {
+          "title": "Check for warning signs",
+          "body": "If it remains very hot, smells unusual, or the battery swells, stop using it and arrange professional service.",
+          "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Smartphone close-up"
+        }
+      ]
+    },
+    {
+      "id": "phone-no-power",
+      "deviceType": "phone",
+      "deviceLabel": "Phone",
+      "title": "Phone will not turn on",
+      "issue": "Power problem",
+      "difficulty": "Beginner",
+      "duration": "10 min",
+      "tools": [
+        "Device settings",
+        "Clean, dry cloth"
+      ],
+      "safety": [
+        "Power the device off before external inspection.",
+        "Do not open sealed batteries or mains-powered equipment.",
+        "Stop if you notice swelling, smoke, burning smells, liquid damage, or excessive heat."
+      ],
+      "sourceTitle": "Apple Support",
+      "sourceUrl": "https://support.apple.com/",
+      "steps": [
+        {
+          "title": "Check for visible damage",
+          "body": "Look for liquid exposure, cracks, swelling, or a damaged charging port. Stop if battery damage is suspected.",
+          "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Smartphone close-up"
+        },
+        {
+          "title": "Charge with compatible accessories",
+          "body": "Try a known-working compatible cable and adapter for a short period.",
+          "image": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Smartphone being used"
+        },
+        {
+          "title": "Try the model-specific restart",
+          "body": "Use the manufacturer's instructions for the exact model; button combinations differ.",
+          "image": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Smartphone on a desk"
+        },
+        {
+          "title": "Escalate if it stays blank",
+          "body": "If there is no response, avoid opening the phone. The battery, display, or power circuitry may need diagnosis.",
+          "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Smartphone close-up"
+        }
+      ]
+    },
+    {
+      "id": "phone-wifi",
+      "deviceType": "phone",
+      "deviceLabel": "Phone",
+      "title": "Phone cannot connect to Wi-Fi",
+      "issue": "Connectivity",
+      "difficulty": "Beginner",
+      "duration": "5–10 min",
+      "tools": [
+        "Device settings",
+        "Clean, dry cloth"
+      ],
+      "safety": [
+        "Power the device off before external inspection.",
+        "Do not open sealed batteries or mains-powered equipment.",
+        "Stop if you notice swelling, smoke, burning smells, liquid damage, or excessive heat."
+      ],
+      "sourceTitle": "Manufacturer support",
+      "sourceUrl": "https://support.google.com/",
+      "steps": [
+        {
+          "title": "Check the network",
+          "body": "Confirm another device can connect to the same Wi-Fi network.",
+          "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Smartphone close-up"
+        },
+        {
+          "title": "Toggle Wi-Fi",
+          "body": "Turn Wi-Fi off and on, then select the correct network and re-enter its password if required.",
+          "image": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Smartphone being used"
+        },
+        {
+          "title": "Restart network equipment",
+          "body": "If other devices also fail, restart the router according to its manual.",
+          "image": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Smartphone on a desk"
+        },
+        {
+          "title": "Forget only if needed",
+          "body": "Forget and rejoin the network if you know the password. Avoid factory reset as an early troubleshooting step.",
+          "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Smartphone close-up"
+        }
+      ]
+    },
+    {
+      "id": "phone-no-sound",
+      "deviceType": "phone",
+      "deviceLabel": "Phone",
+      "title": "Phone speaker has no sound",
+      "issue": "Audio",
+      "difficulty": "Beginner",
+      "duration": "5–10 min",
+      "tools": [
+        "Device settings",
+        "Clean, dry cloth"
+      ],
+      "safety": [
+        "Power the device off before external inspection.",
+        "Do not open sealed batteries or mains-powered equipment.",
+        "Stop if you notice swelling, smoke, burning smells, liquid damage, or excessive heat."
+      ],
+      "sourceTitle": "Manufacturer support",
+      "sourceUrl": "https://support.google.com/",
+      "steps": [
+        {
+          "title": "Check sound settings",
+          "body": "Raise media volume, check silent mode, and make sure audio is not routed to Bluetooth headphones.",
+          "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Smartphone close-up"
+        },
+        {
+          "title": "Test different audio",
+          "body": "Try a ringtone, a local video, and a call speaker to narrow down the symptom.",
+          "image": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Smartphone being used"
+        },
+        {
+          "title": "Inspect external openings",
+          "body": "Check for visible blockage and clean only the exterior with a dry, soft cloth. Do not insert objects.",
+          "image": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Smartphone on a desk"
+        },
+        {
+          "title": "Retest and seek help",
+          "body": "If sound remains absent or distorted after a restart, a speaker or audio component may need service.",
+          "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Smartphone close-up"
+        }
+      ]
+    },
+    {
+      "id": "phone-camera",
+      "deviceType": "phone",
+      "deviceLabel": "Phone",
+      "title": "Phone camera looks blurry or will not open",
+      "issue": "Camera",
+      "difficulty": "Beginner",
+      "duration": "5–10 min",
+      "tools": [
+        "Device settings",
+        "Clean, dry cloth"
+      ],
+      "safety": [
+        "Power the device off before external inspection.",
+        "Do not open sealed batteries or mains-powered equipment.",
+        "Stop if you notice swelling, smoke, burning smells, liquid damage, or excessive heat."
+      ],
+      "sourceTitle": "Manufacturer support",
+      "sourceUrl": "https://support.google.com/",
+      "steps": [
+        {
+          "title": "Clean the lens gently",
+          "body": "Use a clean microfiber cloth and remove any case or lens accessory that could obstruct the camera.",
+          "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Smartphone close-up"
+        },
+        {
+          "title": "Check the selected camera",
+          "body": "Switch between front and rear cameras and test another app that uses the camera.",
+          "image": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Smartphone being used"
+        },
+        {
+          "title": "Restart and check updates",
+          "body": "Close the camera app, restart the phone, and install official updates when convenient.",
+          "image": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Smartphone on a desk"
+        },
+        {
+          "title": "Avoid internal cleaning",
+          "body": "If the lens is cracked, fogged internally, or the app repeatedly crashes, use authorized repair guidance.",
+          "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Smartphone close-up"
+        }
+      ]
+    },
+    {
+      "id": "laptop-overheat-check",
+      "deviceType": "laptop",
+      "deviceLabel": "Laptop",
+      "title": "Laptop overheating: airflow checks",
+      "issue": "Overheating / fan noise",
+      "difficulty": "Beginner",
+      "duration": "10 min",
+      "tools": [
+        "Device settings",
+        "Clean, dry cloth"
+      ],
+      "safety": [
+        "Power the device off before external inspection.",
+        "Do not open sealed batteries or mains-powered equipment.",
+        "Stop if you notice swelling, smoke, burning smells, liquid damage, or excessive heat."
+      ],
+      "sourceTitle": "Microsoft Support — Surface support",
+      "sourceUrl": "https://support.microsoft.com/surface",
+      "steps": [
+        {
+          "title": "Save work and check the surface",
+          "body": "Save your work. Place the laptop on a hard, flat surface; avoid beds, blankets, and cushions that block vents.",
+          "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Laptop computer on a workstation"
+        },
+        {
+          "title": "Check ventilation openings",
+          "body": "Shut down and unplug the laptop, then visually check that external vents are not covered.",
+          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Laptop being used for work"
+        },
+        {
+          "title": "Close unnecessary applications",
+          "body": "Restart and use Task Manager or Activity Monitor to identify unusually heavy CPU use.",
+          "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Laptop close-up"
+        },
+        {
+          "title": "Retest and escalate",
+          "body": "Monitor temperature and fan noise. Persistent overheating may require model-specific service.",
+          "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Laptop computer on a workstation"
+        }
+      ]
+    },
+    {
+      "id": "laptop-slow",
+      "deviceType": "laptop",
+      "deviceLabel": "Laptop",
+      "title": "Laptop is running slowly",
+      "issue": "Performance",
+      "difficulty": "Beginner",
+      "duration": "10–15 min",
+      "tools": [
+        "Device settings",
+        "Clean, dry cloth"
+      ],
+      "safety": [
+        "Power the device off before external inspection.",
+        "Do not open sealed batteries or mains-powered equipment.",
+        "Stop if you notice swelling, smoke, burning smells, liquid damage, or excessive heat."
+      ],
+      "sourceTitle": "Microsoft Support",
+      "sourceUrl": "https://support.microsoft.com/",
+      "steps": [
+        {
+          "title": "Restart the computer",
+          "body": "Save open work and restart rather than only closing the lid.",
+          "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Laptop computer on a workstation"
+        },
+        {
+          "title": "Check resource usage",
+          "body": "Use Task Manager or Activity Monitor to identify apps consuming unusually high CPU or memory.",
+          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Laptop being used for work"
+        },
+        {
+          "title": "Free up storage carefully",
+          "body": "Use the operating system's storage tool to remove temporary files; do not delete files you do not recognize.",
+          "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Laptop close-up"
+        },
+        {
+          "title": "Check updates and security",
+          "body": "Install official system updates and run the built-in security scan. Persistent slowness may need diagnosis.",
+          "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Laptop computer on a workstation"
+        }
+      ]
+    },
+    {
+      "id": "laptop-battery",
+      "deviceType": "laptop",
+      "deviceLabel": "Laptop",
+      "title": "Laptop battery drains quickly",
+      "issue": "Battery / power",
+      "difficulty": "Beginner",
+      "duration": "10 min",
+      "tools": [
+        "Device settings",
+        "Clean, dry cloth"
+      ],
+      "safety": [
+        "Power the device off before external inspection.",
+        "Do not open sealed batteries or mains-powered equipment.",
+        "Stop if you notice swelling, smoke, burning smells, liquid damage, or excessive heat."
+      ],
+      "sourceTitle": "Microsoft Support",
+      "sourceUrl": "https://support.microsoft.com/",
+      "steps": [
+        {
+          "title": "Review battery usage",
+          "body": "Open system battery settings and check which apps consume the most energy.",
+          "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Laptop computer on a workstation"
+        },
+        {
+          "title": "Reduce avoidable load",
+          "body": "Lower screen brightness and close unused apps or external devices.",
+          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Laptop being used for work"
+        },
+        {
+          "title": "Check power mode",
+          "body": "Choose a balanced or energy-saving mode when appropriate.",
+          "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Laptop close-up"
+        },
+        {
+          "title": "Review battery health",
+          "body": "Use the manufacturer's battery-health utility. A worn battery may need replacement by a qualified provider.",
+          "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Laptop computer on a workstation"
+        }
+      ]
+    },
+    {
+      "id": "laptop-keyboard",
+      "deviceType": "laptop",
+      "deviceLabel": "Laptop",
+      "title": "Laptop keyboard keys are not responding",
+      "issue": "Keyboard",
+      "difficulty": "Beginner",
+      "duration": "10 min",
+      "tools": [
+        "Device settings",
+        "Clean, dry cloth"
+      ],
+      "safety": [
+        "Power the device off before external inspection.",
+        "Do not open sealed batteries or mains-powered equipment.",
+        "Stop if you notice swelling, smoke, burning smells, liquid damage, or excessive heat."
+      ],
+      "sourceTitle": "Microsoft Support",
+      "sourceUrl": "https://support.microsoft.com/",
+      "steps": [
+        {
+          "title": "Check whether the issue is app-specific",
+          "body": "Try typing in another application and confirm the correct input language.",
+          "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Laptop computer on a workstation"
+        },
+        {
+          "title": "Restart and check settings",
+          "body": "Restart the laptop and review accessibility settings such as Filter Keys.",
+          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Laptop being used for work"
+        },
+        {
+          "title": "Inspect the surface",
+          "body": "Shut down and unplug. Remove loose debris only from the surface; do not pour liquid or spray cleaner into the keyboard.",
+          "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Laptop close-up"
+        },
+        {
+          "title": "Test an external keyboard",
+          "body": "If an external keyboard works but built-in keys do not, model-specific service may be needed.",
+          "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Laptop computer on a workstation"
+        }
+      ]
+    },
+    {
+      "id": "laptop-black-screen",
+      "deviceType": "laptop",
+      "deviceLabel": "Laptop",
+      "title": "Laptop turns on but screen stays black",
+      "issue": "Display / startup",
+      "difficulty": "Beginner",
+      "duration": "10 min",
+      "tools": [
+        "Device settings",
+        "Clean, dry cloth"
+      ],
+      "safety": [
+        "Power the device off before external inspection.",
+        "Do not open sealed batteries or mains-powered equipment.",
+        "Stop if you notice swelling, smoke, burning smells, liquid damage, or excessive heat."
+      ],
+      "sourceTitle": "Microsoft Support",
+      "sourceUrl": "https://support.microsoft.com/",
+      "steps": [
+        {
+          "title": "Check power indicators",
+          "body": "Connect the correct adapter and look for power or charging indicators.",
+          "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Laptop computer on a workstation"
+        },
+        {
+          "title": "Adjust brightness and display mode",
+          "body": "Increase brightness and disconnect external displays or docks if attached.",
+          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Laptop being used for work"
+        },
+        {
+          "title": "Try a normal restart",
+          "body": "Hold the power button only as directed by the manufacturer, noting that unsaved work may be lost.",
+          "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Laptop close-up"
+        },
+        {
+          "title": "Avoid opening the display",
+          "body": "If the screen remains blank, the display, memory, or graphics system may need professional diagnosis.",
+          "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Laptop computer on a workstation"
+        }
+      ]
+    },
+    {
+      "id": "headphones-audio-check",
+      "deviceType": "headphones",
+      "deviceLabel": "Headphones / Audio",
+      "title": "Headphones have no sound: basic checks",
+      "issue": "No sound / connection",
+      "difficulty": "Beginner",
+      "duration": "5–10 min",
+      "tools": [
+        "Device settings",
+        "Clean, dry cloth"
+      ],
+      "safety": [
+        "Power the device off before external inspection.",
+        "Do not open sealed batteries or mains-powered equipment.",
+        "Stop if you notice swelling, smoke, burning smells, liquid damage, or excessive heat."
+      ],
+      "sourceTitle": "Apple Support — AirPods",
+      "sourceUrl": "https://support.apple.com/airpods",
+      "steps": [
+        {
+          "title": "Check volume and output",
+          "body": "Raise device volume, check mute, and confirm the headphones are selected as the audio output.",
+          "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Over-ear headphones"
+        },
+        {
+          "title": "Reconnect the headphones",
+          "body": "For Bluetooth models, disconnect and reconnect. For wired models, reseat the plug gently.",
+          "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Headphones on a surface"
+        },
+        {
+          "title": "Check charge and pairing",
+          "body": "Charge wireless headphones and follow the manufacturer's pairing instructions.",
+          "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Wireless headphones"
+        }
+      ]
+    },
+    {
+      "id": "headphones-one-side",
+      "deviceType": "headphones",
+      "deviceLabel": "Headphones / Audio",
+      "title": "Only one headphone side works",
+      "issue": "Audio imbalance",
+      "difficulty": "Beginner",
+      "duration": "5–10 min",
+      "tools": [
+        "Device settings",
+        "Clean, dry cloth"
+      ],
+      "safety": [
+        "Power the device off before external inspection.",
+        "Do not open sealed batteries or mains-powered equipment.",
+        "Stop if you notice swelling, smoke, burning smells, liquid damage, or excessive heat."
+      ],
+      "sourceTitle": "Apple Support",
+      "sourceUrl": "https://support.apple.com/airpods",
+      "steps": [
+        {
+          "title": "Check audio balance",
+          "body": "Review left-right audio balance and mono-audio settings on the connected device.",
+          "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Over-ear headphones"
+        },
+        {
+          "title": "Reconnect or reseat",
+          "body": "Reconnect Bluetooth headphones or gently reseat a wired plug.",
+          "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Headphones on a surface"
+        },
+        {
+          "title": "Test another device",
+          "body": "Connect to another compatible device to see whether the problem follows the headphones.",
+          "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Wireless headphones"
+        },
+        {
+          "title": "Avoid dismantling sealed units",
+          "body": "If one side remains silent, internal wiring or driver damage may need service.",
+          "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Over-ear headphones"
+        }
+      ]
+    },
+    {
+      "id": "headphones-pairing",
+      "deviceType": "headphones",
+      "deviceLabel": "Headphones / Audio",
+      "title": "Bluetooth headphones will not pair",
+      "issue": "Bluetooth pairing",
+      "difficulty": "Beginner",
+      "duration": "5–10 min",
+      "tools": [
+        "Device settings",
+        "Clean, dry cloth"
+      ],
+      "safety": [
+        "Power the device off before external inspection.",
+        "Do not open sealed batteries or mains-powered equipment.",
+        "Stop if you notice swelling, smoke, burning smells, liquid damage, or excessive heat."
+      ],
+      "sourceTitle": "Manufacturer support",
+      "sourceUrl": "https://support.google.com/",
+      "steps": [
+        {
+          "title": "Charge the headphones",
+          "body": "Make sure the headphones have enough charge and are in pairing mode as described in their manual.",
+          "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Over-ear headphones"
+        },
+        {
+          "title": "Check Bluetooth settings",
+          "body": "Enable Bluetooth and select the correct device name.",
+          "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Headphones on a surface"
+        },
+        {
+          "title": "Clear stale pairing carefully",
+          "body": "Remove the old pairing entry only if you can put the headphones back into pairing mode.",
+          "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Wireless headphones"
+        },
+        {
+          "title": "Check another device",
+          "body": "Test with another compatible device. If pairing still fails, consult the manufacturer's reset procedure.",
+          "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Over-ear headphones"
+        }
+      ]
+    },
+    {
+      "id": "controller-stick-drift",
+      "deviceType": "controller",
+      "deviceLabel": "Game controller",
+      "title": "Controller stick drift or movement",
+      "issue": "Analog stick",
+      "difficulty": "Beginner",
+      "duration": "10 min",
+      "tools": [
+        "Device settings",
+        "Clean, dry cloth"
+      ],
+      "safety": [
+        "Power the device off before external inspection.",
+        "Do not open sealed batteries or mains-powered equipment.",
+        "Stop if you notice swelling, smoke, burning smells, liquid damage, or excessive heat."
+      ],
+      "sourceTitle": "PlayStation Support",
+      "sourceUrl": "https://www.playstation.com/support/",
+      "steps": [
+        {
+          "title": "Check the game settings",
+          "body": "Test in another game or the platform's controller test to rule out in-game dead-zone settings.",
+          "image": "https://images.unsplash.com/photo-1592840496694-26d035b52b48?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Gaming controller"
+        },
+        {
+          "title": "Reconnect the controller",
+          "body": "Disconnect and reconnect it, or restart the console or computer.",
+          "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Game controller and console"
+        },
+        {
+          "title": "Update controller software",
+          "body": "Install firmware updates from the console or controller manufacturer.",
+          "image": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Gaming equipment"
+        },
+        {
+          "title": "Do not force the stick",
+          "body": "Avoid liquids and disassembly. Persistent drift may require manufacturer service or replacement.",
+          "image": "https://images.unsplash.com/photo-1592840496694-26d035b52b48?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Gaming controller"
+        }
+      ]
+    },
+    {
+      "id": "controller-buttons",
+      "deviceType": "controller",
+      "deviceLabel": "Game controller",
+      "title": "Controller buttons do not respond",
+      "issue": "Buttons / input",
+      "difficulty": "Beginner",
+      "duration": "10 min",
+      "tools": [
+        "Device settings",
+        "Clean, dry cloth"
+      ],
+      "safety": [
+        "Power the device off before external inspection.",
+        "Do not open sealed batteries or mains-powered equipment.",
+        "Stop if you notice swelling, smoke, burning smells, liquid damage, or excessive heat."
+      ],
+      "sourceTitle": "PlayStation Support",
+      "sourceUrl": "https://www.playstation.com/support/",
+      "steps": [
+        {
+          "title": "Check the game and mapping",
+          "body": "Test another game and confirm button mapping or accessibility settings.",
+          "image": "https://images.unsplash.com/photo-1592840496694-26d035b52b48?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Gaming controller"
+        },
+        {
+          "title": "Reconnect and recharge",
+          "body": "Use a known-good compatible cable or charge the controller.",
+          "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Game controller and console"
+        },
+        {
+          "title": "Clean only the exterior",
+          "body": "Power off and wipe the surface with a dry cloth. Do not pour liquids around buttons.",
+          "image": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Gaming equipment"
+        },
+        {
+          "title": "Retest",
+          "body": "If a button remains stuck or unresponsive, avoid forcing it and seek model-specific service.",
+          "image": "https://images.unsplash.com/photo-1592840496694-26d035b52b48?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Gaming controller"
+        }
+      ]
+    },
+    {
+      "id": "controller-connection",
+      "deviceType": "controller",
+      "deviceLabel": "Game controller",
+      "title": "Controller disconnects repeatedly",
+      "issue": "Connection",
+      "difficulty": "Beginner",
+      "duration": "10 min",
+      "tools": [
+        "Device settings",
+        "Clean, dry cloth"
+      ],
+      "safety": [
+        "Power the device off before external inspection.",
+        "Do not open sealed batteries or mains-powered equipment.",
+        "Stop if you notice swelling, smoke, burning smells, liquid damage, or excessive heat."
+      ],
+      "sourceTitle": "Manufacturer support",
+      "sourceUrl": "https://support.google.com/",
+      "steps": [
+        {
+          "title": "Check battery level",
+          "body": "Charge the controller and inspect the cable if using a wired connection.",
+          "image": "https://images.unsplash.com/photo-1592840496694-26d035b52b48?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Gaming controller"
+        },
+        {
+          "title": "Reduce wireless interference",
+          "body": "Move closer to the console or computer and temporarily disconnect unnecessary wireless accessories.",
+          "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Game controller and console"
+        },
+        {
+          "title": "Reconnect using official steps",
+          "body": "Follow the manufacturer's pairing instructions for the exact model.",
+          "image": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Gaming equipment"
+        },
+        {
+          "title": "Update and retest",
+          "body": "Check official firmware updates. Persistent disconnections may indicate hardware or radio issues.",
+          "image": "https://images.unsplash.com/photo-1592840496694-26d035b52b48?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Gaming controller"
+        }
+      ]
+    },
+    {
+      "id": "other-power",
+      "deviceType": "other",
+      "deviceLabel": "Other gadget",
+      "title": "Gadget will not turn on: safe first checks",
+      "issue": "Power problem",
+      "difficulty": "Beginner",
+      "duration": "5–10 min",
+      "tools": [
+        "Device settings",
+        "Clean, dry cloth"
+      ],
+      "safety": [
+        "Power the device off before external inspection.",
+        "Do not open sealed batteries or mains-powered equipment.",
+        "Stop if you notice swelling, smoke, burning smells, liquid damage, or excessive heat."
+      ],
+      "sourceTitle": "Manufacturer support and product manual",
+      "sourceUrl": "https://support.google.com/",
+      "steps": [
+        {
+          "title": "Identify the exact model",
+          "body": "Find the model number and locate the manufacturer's manual.",
+          "image": "https://images.unsplash.com/photo-1550009158-9ebf69173e03?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Electronic gadgets"
+        },
+        {
+          "title": "Check power safely",
+          "body": "Confirm the outlet works and use only a compatible, undamaged adapter.",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Electronic circuit board"
+        },
+        {
+          "title": "Look for visible damage",
+          "body": "Check the exterior for cracks, liquid, heat damage, or a loose connector.",
+          "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Electronics workstation"
+        },
+        {
+          "title": "Stop if unsafe",
+          "body": "Do not open mains-powered equipment or battery packs. Seek qualified service if the issue persists.",
+          "image": "https://images.unsplash.com/photo-1550009158-9ebf69173e03?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Electronic gadgets"
+        }
+      ]
+    },
+    {
+      "id": "other-connectivity",
+      "deviceType": "other",
+      "deviceLabel": "Other gadget",
+      "title": "Gadget will not connect to another device",
+      "issue": "Connectivity",
+      "difficulty": "Beginner",
+      "duration": "5–10 min",
+      "tools": [
+        "Device settings",
+        "Clean, dry cloth"
+      ],
+      "safety": [
+        "Power the device off before external inspection.",
+        "Do not open sealed batteries or mains-powered equipment.",
+        "Stop if you notice swelling, smoke, burning smells, liquid damage, or excessive heat."
+      ],
+      "sourceTitle": "Manufacturer support",
+      "sourceUrl": "https://support.google.com/",
+      "steps": [
+        {
+          "title": "Confirm compatibility",
+          "body": "Check the manual to confirm the devices support the same connection method.",
+          "image": "https://images.unsplash.com/photo-1550009158-9ebf69173e03?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Electronic gadgets"
+        },
+        {
+          "title": "Restart both devices",
+          "body": "Power-cycle both devices following their manuals.",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Electronic circuit board"
+        },
+        {
+          "title": "Check cable or pairing",
+          "body": "Use a compatible, undamaged cable or follow the official wireless pairing steps.",
+          "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Electronics workstation"
+        },
+        {
+          "title": "Retest and escalate",
+          "body": "Test with another compatible device if available. Avoid unofficial firmware or unknown utilities.",
+          "image": "https://images.unsplash.com/photo-1550009158-9ebf69173e03?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Electronic gadgets"
+        }
+      ]
+    },
+    {
+      "id": "other-damaged-cable",
+      "deviceType": "other",
+      "deviceLabel": "Other gadget",
+      "title": "Accessory cable appears damaged",
+      "issue": "Cable / accessory safety",
+      "difficulty": "Beginner",
+      "duration": "5 min",
+      "tools": [
+        "Device settings",
+        "Clean, dry cloth"
+      ],
+      "safety": [
+        "Do not use cables with exposed conductors, scorch marks, or damaged plugs.",
+        "Never handle damaged mains cables while connected to power."
+      ],
+      "sourceTitle": "Manufacturer support",
+      "sourceUrl": "https://support.google.com/",
+      "steps": [
+        {
+          "title": "Disconnect it",
+          "body": "Stop using the cable if insulation is split, wires are exposed, connectors are bent, or scorch marks appear.",
+          "image": "https://images.unsplash.com/photo-1550009158-9ebf69173e03?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Electronic gadgets"
+        },
+        {
+          "title": "Do not patch exposed wiring",
+          "body": "Do not tape over exposed conductors or continue using a cable that heats up.",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Electronic circuit board"
+        },
+        {
+          "title": "Use a compatible replacement",
+          "body": "Choose an accessory that meets the device manufacturer's specifications.",
+          "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Electronics workstation"
+        },
+        {
+          "title": "Check the device port",
+          "body": "If the replacement also fails, stop testing and arrange service for the device.",
+          "image": "https://images.unsplash.com/photo-1550009158-9ebf69173e03?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Electronic gadgets"
+        }
+      ]
+    }
+  ]
+}

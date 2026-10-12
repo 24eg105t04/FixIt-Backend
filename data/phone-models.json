@@ -1,0 +1,325 @@
+
+{
+  "models": [
+    {
+      "id": "iphone-11",
+      "brand": "Apple",
+      "family": "iphone",
+      "name": "iPhone 11",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "iphone-11-pro",
+      "brand": "Apple",
+      "family": "iphone",
+      "name": "iPhone 11 Pro",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "iphone-12",
+      "brand": "Apple",
+      "family": "iphone",
+      "name": "iPhone 12",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "iphone-12-pro",
+      "brand": "Apple",
+      "family": "iphone",
+      "name": "iPhone 12 Pro",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "iphone-13",
+      "brand": "Apple",
+      "family": "iphone",
+      "name": "iPhone 13",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "iphone-13-mini",
+      "brand": "Apple",
+      "family": "iphone",
+      "name": "iPhone 13 mini",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "iphone-13-pro",
+      "brand": "Apple",
+      "family": "iphone",
+      "name": "iPhone 13 Pro",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "iphone-14",
+      "brand": "Apple",
+      "family": "iphone",
+      "name": "iPhone 14",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "iphone-14-plus",
+      "brand": "Apple",
+      "family": "iphone",
+      "name": "iPhone 14 Plus",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "iphone-14-pro",
+      "brand": "Apple",
+      "family": "iphone",
+      "name": "iPhone 14 Pro",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "iphone-15",
+      "brand": "Apple",
+      "family": "iphone",
+      "name": "iPhone 15",
+      "modelNumber": "A3090",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "iphone-15-plus",
+      "brand": "Apple",
+      "family": "iphone",
+      "name": "iPhone 15 Plus",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "iphone-15-pro",
+      "brand": "Apple",
+      "family": "iphone",
+      "name": "iPhone 15 Pro",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "iphone-15-pro-max",
+      "brand": "Apple",
+      "family": "iphone",
+      "name": "iPhone 15 Pro Max",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "iphone-16",
+      "brand": "Apple",
+      "family": "iphone",
+      "name": "iPhone 16",
+      "modelNumber": "A3287",
+      "image": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "iphone-16-plus",
+      "brand": "Apple",
+      "family": "iphone",
+      "name": "iPhone 16 Plus",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "iphone-16-pro",
+      "brand": "Apple",
+      "family": "iphone",
+      "name": "iPhone 16 Pro",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "iphone-16-pro-max",
+      "brand": "Apple",
+      "family": "iphone",
+      "name": "iPhone 16 Pro Max",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "iphone-17",
+      "brand": "Apple",
+      "family": "iphone",
+      "name": "iPhone 17",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "iphone-17-pro",
+      "brand": "Apple",
+      "family": "iphone",
+      "name": "iPhone 17 Pro",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "samsung-s24",
+      "brand": "Samsung",
+      "family": "android",
+      "name": "Galaxy S24",
+      "modelNumber": "SM-S921B",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "samsung-s24-ultra",
+      "brand": "Samsung",
+      "family": "android",
+      "name": "Galaxy S24 Ultra",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "samsung-s25",
+      "brand": "Samsung",
+      "family": "android",
+      "name": "Galaxy S25",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "samsung-a55",
+      "brand": "Samsung",
+      "family": "android",
+      "name": "Galaxy A55",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "samsung-a56",
+      "brand": "Samsung",
+      "family": "android",
+      "name": "Galaxy A56",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "samsung-z-flip6",
+      "brand": "Samsung",
+      "family": "android",
+      "name": "Galaxy Z Flip6",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "samsung-z-fold6",
+      "brand": "Samsung",
+      "family": "android",
+      "name": "Galaxy Z Fold6",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "oneplus-12",
+      "brand": "OnePlus",
+      "family": "android",
+      "name": "OnePlus 12",
+      "modelNumber": "CPH2573",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "oneplus-13",
+      "brand": "OnePlus",
+      "family": "android",
+      "name": "OnePlus 13",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "oneplus-nord-4",
+      "brand": "OnePlus",
+      "family": "android",
+      "name": "OnePlus Nord 4",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "pixel-8",
+      "brand": "Google",
+      "family": "android",
+      "name": "Pixel 8",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "pixel-9",
+      "brand": "Google",
+      "family": "android",
+      "name": "Pixel 9",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "redmi-note-13",
+      "brand": "Redmi",
+      "family": "android",
+      "name": "Redmi Note 13",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "redmi-note-14",
+      "brand": "Redmi",
+      "family": "android",
+      "name": "Redmi Note 14",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "poco-x6",
+      "brand": "POCO",
+      "family": "android",
+      "name": "POCO X6",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "xiaomi-14",
+      "brand": "Xiaomi",
+      "family": "android",
+      "name": "Xiaomi 14",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "motorola-edge-50",
+      "brand": "Motorola",
+      "family": "android",
+      "name": "Motorola Edge 50",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "oppo-reno-12",
+      "brand": "OPPO",
+      "family": "android",
+      "name": "OPPO Reno12",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "vivo-v30",
+      "brand": "vivo",
+      "family": "android",
+      "name": "vivo V30",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "realme-13-pro",
+      "brand": "realme",
+      "family": "android",
+      "name": "realme 13 Pro",
+      "modelNumber": "",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    }
+  ]
+}

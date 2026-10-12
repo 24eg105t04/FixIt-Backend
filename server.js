@@ -12,12 +12,29 @@ const app = express();
 const PORT = process.env.PORT || 8080;
 import youfixRoutes from "./routes/youfix.js";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
+
 const allowedOrigins = new Set([
   process.env.FRONTEND_ORIGIN || "http://localhost:5173",
   "http://127.0.0.1:5173",
+  "https://fix-it-frontend-liard.vercel.app",
 ]);
-app.use(cors({ origin: (origin, callback) => callback(null, !origin || allowedOrigins.has(origin)) }));
+
+app.use(
+  cors({
+    origin: (origin, callback) => {
+      if (!origin || allowedOrigins.has(origin)) {
+        return callback(null, true);
+      }
+      return callback(new Error(`CORS blocked origin: ${origin}`));
+    },
+    methods: ["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"],
+    allowedHeaders: ["Content-Type", "Authorization"],
+    credentials: true,
+  })
+);
+
 app.use(express.json({ limit: "10mb" }));
+
 app.use("/uploads", express.static(path.join(__dirname, "uploads"), { fallthrough: false, maxAge: "1d" }));
 app.use("/api/auth", authRoutes);
 app.use("/api/marketplace", marketplaceRoutes);
